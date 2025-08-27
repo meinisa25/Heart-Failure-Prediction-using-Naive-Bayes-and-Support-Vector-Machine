@@ -17,8 +17,7 @@ This project aims to:
 
 - **Source**: Heart Failure Prediction Dataset [https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data].  
 - **Main Features**:  
-  - Age, anemia, diabetes, high blood pressure.  
-  - Ejection fraction, serum creatinine, serum sodium, etc.  
+  - Age, sex, anemia, diabetes, high blood pressure, smoking, ejection fraction, serum creatinine, serum sodium, platelets, time.  
 - **Target**:  
   - `DEATH_EVENT` (1 = death, 0 = survival).  
 - **Dataset Size**:  
